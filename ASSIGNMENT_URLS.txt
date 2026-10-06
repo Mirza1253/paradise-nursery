@@ -1,0 +1,22 @@
+After uploading this project to GitHub, replace USERNAME and REPOSITORY with your GitHub values:
+
+Task 1 README.md:
+https://github.com/USERNAME/REPOSITORY/blob/main/README.md
+
+Task 2 AboutUs.jsx:
+https://github.com/USERNAME/REPOSITORY/blob/main/src/pages/AboutUs.jsx
+
+Task 3 App.css:
+https://github.com/USERNAME/REPOSITORY/blob/main/src/App.css
+
+Task 4 App.jsx:
+https://github.com/USERNAME/REPOSITORY/blob/main/src/App.jsx
+
+Task 5 CartSlice.jsx:
+https://github.com/USERNAME/REPOSITORY/blob/main/src/features/cart/CartSlice.jsx
+
+Task 6 ProductList.jsx:
+https://github.com/USERNAME/REPOSITORY/blob/main/src/pages/ProductList.jsx
+
+Task 7 CartItem.jsx:
+https://github.com/USERNAME/REPOSITORY/blob/main/src/components/CartItem.jsx
